@@ -92,4 +92,5 @@ CREATE TABLE diagnosticos (id INT NOT NULL auto_increment,
 descripcion VARCHAR(50) NOT NULL, PRIMARY KEY(id));
 
 SELECT * FROM sintomas;
+SELECT * FROM diagnosticos;
 
